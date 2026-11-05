@@ -1,0 +1,15 @@
+{
+  "Name": "2",
+  "Health": 80,
+  "Level": 2,
+  "Inventory": [
+    {
+      "Name": "Sword",
+      "Quantity": 1
+    },
+    {
+      "Name": "Potion",
+      "Quantity": 3
+    }
+  ]
+}

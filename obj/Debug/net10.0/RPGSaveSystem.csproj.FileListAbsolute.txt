@@ -1,0 +1,14 @@
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.AssemblyInfoInputs.cache
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.AssemblyInfo.cs
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\bin\Debug\net10.0\RPGSaveSystem.exe
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\bin\Debug\net10.0\RPGSaveSystem.deps.json
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\bin\Debug\net10.0\RPGSaveSystem.runtimeconfig.json
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\bin\Debug\net10.0\RPGSaveSystem.dll
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\bin\Debug\net10.0\RPGSaveSystem.pdb
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.dll
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\refint\RPGSaveSystem.dll
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.pdb
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\RPGSaveSystem.genruntimeconfig.cache
+C:\Users\Bridger Angell\Downloads\RPGSaveSystem\obj\Debug\net10.0\ref\RPGSaveSystem.dll
