@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bridger Angell\\Downloads\\RPGSaveSystem\\RPGSaveSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Bridger Angell\\Downloads\\RPGSaveSystem\\SaveSystem\\RPGSaveSystem.csproj",
       "projectName": "RPGSaveSystem",
-      "projectPath": "C:\\Users\\Bridger Angell\\Downloads\\RPGSaveSystem\\RPGSaveSystem.csproj",
+      "projectPath": "C:\\Users\\Bridger Angell\\Downloads\\RPGSaveSystem\\SaveSystem\\RPGSaveSystem.csproj",
       "packagesPath": "C:\\Users\\Bridger Angell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bridger Angell\\Downloads\\RPGSaveSystem\\obj\\",
+      "outputPath": "C:\\Users\\Bridger Angell\\Downloads\\RPGSaveSystem\\SaveSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
